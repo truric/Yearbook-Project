@@ -39,7 +39,7 @@ First we defined all the possible different user roles/actors, they could be:
 
 ### Planning phase ###
 
-Within the next few days, we planned out our next few months with Gannt
+Within the next few days, we planned out our next few months with Gantt
 
 ### UML ###
 
@@ -52,7 +52,7 @@ As a Team we chose MVC using Laravel and HTML/CSS/JS for the front-end.
 
 ### Middlewares ###
 
-- As there were so many type os users with different roles and different permissions and authorizations, we decided to make
+- As there were so many type of users with different roles and different permissions and authorizations, we decided to make
 different middlewares for each type of user already named on the intro of this readme file.
 - For a better usage we created our own @blades with groups of users with the same permissions, that way that group of users alone would be the only users able to see the part of the page we wanted to share
 
@@ -87,7 +87,7 @@ different middlewares for each type of user already named on the intro of this r
 - For many possible reasons: slow internet, slow PC performance, slow server response, the Google API sometimes was slow and the user had to wait 3 seconds before clicking anything else
 - I've come up with the idea of creating a loading screen that made the user wait those precious 3 seconds
 - Found out about SVG image manipulation with Figma and some CSS.
-- Used the ATEC logo with has some kind of ball, made it rotate and everything appearing from above with a progressive line on the bottom and when the load was done, the screen would become the logo's color, it was sweet and fun to do
+- Used the ATEC logo as some kind of ball, made it rotate and everything appearing from above with a progressive line on the bottom and when the load was done, the screen would become the logo's color, it was sweet and fun to do
 
 ### Conclusion ###
 
@@ -95,5 +95,5 @@ different middlewares for each type of user already named on the intro of this r
 - Found out I'm curious and want to discover and try new things that add value
 - Although I was focused on the back-end while the front-end team did the rest, we always managed to work as a Team and completed the challenge in style
 - The presentation was a success and ATEC president was very pleased
-- Although this was a client's request, it was done for every pearson in Atec, specially for the students.
+- Although this was a client's request, it was done for everyone at Atec, specially for the students.
 - Enjoy
